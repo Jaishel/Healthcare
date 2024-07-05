@@ -1,16 +1,26 @@
 Author:  Jaishel Bhatt
+
 Title: HAPPY SAVES
 
+
+
                 Introduction
-Welcome, fellow advocates of good healthcare, to HAPPY SAVES!
+Welcome, fellow advocates of good healthcare, to HAPPY SAVES:  Healthcare Analytics Predicting Possible Yields by Scrutinising And Validating Efficiency, Saving Lives 
+                
+  Purpose:
 
-The purpoose of the Healthcare Analytics Predicting Possible Yields by Scrutinising And Validating Efficiency Saves Lives (HAPPY SAVES), is, simply, to use data to expose opportunities to save lives.  To predict possible yields of changes that could be made to a nation's healthcare system, by comparing it with similar, nearby healthcare systems that cater to similar, nearby populations. 
+HAPPY SAVES aims to use data analytics to uncover opportunities for improving healthcare outcomes and ultimately saving lives. By predicting potential yield changes within a nation’s healthcare system, we empower decision-makers to take informed actions.
 
-How does it work?  
+  How It Works:
+  
+We gather data on specific healthcare metrics on various nations.  This data is then plugged into our bespoke Cohorting system, which allows us to group nations for comparison with similar nations — ones with similar approaches to healthcare universality AND that serve similar ethnic population ranges.
 
-The project takes data about a given healthcare metric for a nation or nations, in the published example, Deaths By Alcohol Use Disorder, compares it with those of other similar nations, ie those that have both similar approaches to universality of healthcare, AND similar ethnic ranges of population served, and highlights those outliers who systems might either:  
+  Highlighting Outliers:
+  
+We identify healthcare systems that are highly efficient in delivering positive outcomes (measured in terms of outcome per USD spent).
+  Conversely, we pinpoint systems that are highly inefficient.
 
- 1) Be highly efficient in delivering good healthcare outcomes for a given healthcare metric;
- 2) Be highly INefficient in the same.
+  Impact:
+If your nation falls into either category, you’ll at minimum have an opportunity to advocate for data cleansing within your health governance system, OR likelier, you'll have an extremely powerful case to alter your healthcare system or even your government's approach to a particular substance, lifestyle or environmental practice. 
 
-If your nation of concern falls in either category, you will have, at worst, an opportunity to make a case to the nation's health governance system, to cleanse the data.  If the data is not faulty, you have an opportunity to save lives.  
+Valid data provides a chance to make impactful decisions and save lives.

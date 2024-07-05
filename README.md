@@ -13,7 +13,7 @@ HAPPY SAVES aims to use data analytics to uncover opportunities for improving he
 
   How It Works:
   
-We gather data on specific healthcare metrics on various nations.  This data is then plugged into our bespoke Cohorting system, which allows us to group nations for comparison with similar nations — ones with similar approaches to healthcare universality AND that serve similar ethnic population ranges.
+We gather data on specific healthcare metrics on various nations.  This data is then plugged into our bespoke Cohorting system, created in Power BI, which allows us to group nations for comparison with similar nations — ones with similar approaches to healthcare universality AND that serve similar ethnic population ranges.
 
   Highlighting Outliers:
   
